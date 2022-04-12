@@ -93,11 +93,22 @@ h1{
 }
 
 #resultado{
-    display: none;
     font-size: 1.6rem;
-    margin-left: 5rem;
     margin-top: 2rem;
+    
 }
+
+.pValido{
+    color: #27dd4f;
+    text-align: center;
+}
+
+.pInvalido{
+    color: rgb(235, 55, 55);
+    text-align: center;
+}
+
+
 
 #tabela{
     width: 49rem;
