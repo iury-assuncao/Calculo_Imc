@@ -21,9 +21,3 @@
 </h3>
 
 
-<h1> Visualizar projeto🔧</h1>
-
-
-<p>Para visualizar o projeto acesso o link: <a href="https://iury-assuncao.github.io/Calculo_Imc/" target="_blank">https://iury-assuncao.github.io/Calculo_Imc//</a></p>
-
-
